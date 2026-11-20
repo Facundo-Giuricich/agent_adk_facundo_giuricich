@@ -1,0 +1,26 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Base de datos local generada en runtime
+data/*.db
+!data/.gitkeep
+
+# Variables de entorno
+.env
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ADK telemetry y logs
+.adk/

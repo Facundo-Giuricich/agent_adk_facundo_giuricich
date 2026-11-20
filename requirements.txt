@@ -1,0 +1,5 @@
+google-adk>=2.15.0
+litellm==1.105.1
+ddgs>=9.16.0
+duckduckgo-search>=8.1.0
+python-dotenv>=1.0.0
